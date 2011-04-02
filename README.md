@@ -1,5 +1,13 @@
 # PDF generation, you say?!
 
-Laziness is preventing me from adding too much detail to the readme
-right now. More to come soon.
+You're going to need Scala. We're using v2.8.1. Install it! On OS X with
+Homebrew, just do one of these:
+
+    brew install scala
+
+Then pop this update URL into Eclipse:
+
+    http://download.scala-ide.org/nightly-update-wip-exp-backport-2.8.1.final
+
+Boom.
 
